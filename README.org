@@ -1,1 +1,2 @@
-file:sushi-family-tree_diagram.gif
+[[file:sushi-family-tree_diagram.gif]]
+
